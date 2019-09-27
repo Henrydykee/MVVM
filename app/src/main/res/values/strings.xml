@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="add_quote">Add Quote</string>
+    <string name="author">Author</string>
+    <string name="quote">quote</string>
+    <string name="quote_would_show_here">Quote Would show here</string>
+</resources>
